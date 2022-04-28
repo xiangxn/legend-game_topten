@@ -1,0 +1,4 @@
+json-rpc==1.13.0
+Werkzeug==2.0.1
+web3==5.19.0
+mongoengine==0.23.1
